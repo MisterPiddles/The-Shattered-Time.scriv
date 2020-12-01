@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FolderSyncSettings Version="1.0">
+    <syncsOnlyDocumentsInCollection Type="Bool">No</syncsOnlyDocumentsInCollection>
+    <takesSnapshots Type="Bool">Yes</takesSnapshots>
+    <draftPlainTextExtension Type="String">txt</draftPlainTextExtension>
+    <collectionIdent Type="String">3E04D4BA-CC28-4876-A6DC-238159359FA6</collectionIdent>
+    <draftFileFormat Type="Int">1</draftFileFormat>
+    <plainTextAddsParagraphPadding Type="Bool">Yes</plainTextAddsParagraphPadding>
+    <folderPath Type="String"></folderPath>
+    <importShowsContainersOnly Type="Bool">Yes</importShowsContainersOnly>
+    <usesFileNumbering Type="Bool">Yes</usesFileNumbering>
+    <importDestinationUUID Type="String">669D7B65-8096-4EFD-A0E2-6BDE8C1E3585</importDestinationUUID>
+    <automaticallyCheckForChanges Type="Bool">Yes</automaticallyCheckForChanges>
+    <otherPlainTextExtension Type="String">txt</otherPlainTextExtension>
+    <deletedDocIDs Type="Array"/>
+    <otherFileFormat Type="Int">1</otherFileFormat>
+    <syncsDraftFolder Type="Bool">Yes</syncsDraftFolder>
+    <syncsOtherTextFiles Type="Bool">No</syncsOtherTextFiles>
+</FolderSyncSettings>

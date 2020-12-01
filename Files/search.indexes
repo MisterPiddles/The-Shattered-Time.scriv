@@ -1,0 +1,2379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="09036E19-8980-4F20-8D20-5EECE14744D1">
+            <Title>Factions</Title>
+        </Document>
+        <Document ID="09B67B63-3FE1-42A8-AD79-5C1302B5E153">
+            <Title>Completed</Title>
+        </Document>
+        <Document ID="09D5DA31-F40A-499C-88BD-AAED5929F305">
+            <Title>Session Template</Title>
+            <Text>
+Locations
+
+NPCs
+
+Quests
+
+Items
+
+Encounters
+
+Notes
+
+</Text>
+        </Document>
+        <Document ID="1195E398-AB59-4B2F-9056-B525AAFC6432">
+            <Title>Bradded Braggar</Title>
+            <Text>
+Race
+Gnome
+Class
+
+Faction
+Fire Mages
+Location
+Shattered Vault #1
+Age
+
+Goal
+To obtain Aerotek
+Physical Description
+Wears black clothes, and is normal gnome height
+Personality
+Possible evil
+Occupation
+Vault Explorer
+Habits/Mannerisms
+
+Notes
+
+
+</Text>
+        </Document>
+        <Document ID="11D365A3-304B-43DE-88A1-47F2F194FD90">
+            <Title>Recover Artifact for Fire Mages</Title>
+            <Text>
+Giver
+Lord Fyrestrum
+Rewards
+Any shattered or Aerotek we find we can keep, after it has been inventoried.
+
+He will also put in a good word about us with captains that are looking to trade shares.
+Location
+Hershel
+Factions
+Fire Mages
+Reason
+His team is missing and he is worried about them
+Importance
+Low
+Urgency
+Medium
+Notes
+Lord Fyrestrum sent out an gnome expedition team a week ago on a five day hike through the sand and they have not reported in for two days. They have found a way into the shattered complex below and not been heard from since. We need to go find them and rescue them.
+We need to keep this mission a secret for unknown reasons.
+He has given us a map and charted us a ship.
+The team size is four.
+</Text>
+        </Document>
+        <Document ID="11D7D42A-5747-436A-A352-0071F8DA167C">
+            <Title>Alive</Title>
+        </Document>
+        <Document ID="12BB52E0-D4ED-4EBD-8B16-9818253A6BD9">
+            <Title>Captian Griggle Goreson</Title>
+            <Text>
+Race
+Dwarf
+Class
+
+Faction
+
+Location
+
+Age
+
+Goal
+
+Physical Description
+One Eyed, missing an arm. On the missing arm he has a crudely forged cast iron hand with a mug inside of it, red mohawk kept up by bear fat, stinks of wine
+Personality
+
+Occupation
+Pirate Lord of the North
+Habits/Mannerisms
+
+Notes
+Creates his own wine with pictures of pirates/heroes and their stories.
+Sweet berry wine
+Promised AMI would be on the next wine bottle
+Naked and covered in tattoos
+Has taken a slayer vow
+
+</Text>
+        </Document>
+        <Document ID="15819B13-7CE7-43D7-802D-0B9D80D7D3A8">
+            <Title>Farmer Gunderson</Title>
+            <Text>
+Race
+
+Class
+
+Faction
+Fire Mages
+Location
+Gunderson Farmstead
+Age
+
+Goal
+Sell sheep for a profit
+Physical Description
+
+Personality
+Gregarious
+Occupation
+Sheep farmer
+Habits/Mannerisms
+
+Notes
+
+
+</Text>
+        </Document>
+        <Document ID="18C415CC-CBAB-4A20-A705-5C34F9BC7CDB">
+            <Title>Find the Phoenix in Hershel</Title>
+            <Text>
+Giver
+Donald wants Lord Fyrestrum phoenix
+Rewards
+The phoenix as a bet
+Location
+Hershel
+Factions
+Fire Mages
+Reason
+
+Importance
+Low
+Urgency
+Low
+Notes
+This is Lord Fyrestrum’s lost pet, and might get either mad or happy if we find/take it.
+
+</Text>
+        </Document>
+        <Document ID="19D4F85C-5FD2-4175-80AE-035F03512632">
+            <Title>Drunken Fish</Title>
+            <Text>
+Parent Location
+Hershel
+Location Type
+Bar
+Faction
+
+Related Characters
+
+Unique Features
+
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+This is the session 0 where we got our initial quest. We were giving a table and we met 
+
+</Text>
+        </Document>
+        <Document ID="1DA1E253-B983-4387-8EE1-D79DF3944046">
+            <Title>Old Man St. McGee</Title>
+            <Text>
+Race
+
+Class
+
+Faction
+
+Location
+Naxalith
+Age
+
+Goal
+
+Physical Description
+Old man
+Personality
+
+Occupation
+Merchant
+Habits/Mannerisms
+
+Notes
+Collector of artifacts
+Walked with gods
+Fought in crusades in which the dead fought the dead
+Fought in the great Orc rebellion
+
+</Text>
+        </Document>
+        <Document ID="1F058059-8716-4E18-8881-64C6E59E36A4">
+            <Title>Crusade of the Hostis Humani Generis</Title>
+            <Text>
+Leader
+An Angel
+Locations
+Far up north
+Related Characters
+
+Goal
+To redeem Golgotha by killing the pirate lords
+Personality
+
+Feeling Towards Us
+
+Notes
+Crusade of the Hostis Humani Generis allegedly follows an angel that was trapped during the Shattering.
+The Angel leaves a group of clerics and paladins that have lost their powers
+The Crusade is to restore Golgotha and to redeem it.
+The Angel opposes the pirate lords.
+Helps refugees and seems like decent people
+The wear purple and black clothes
+
+</Text>
+        </Document>
+        <Document ID="1F139E1E-2ADD-407A-8CFC-2D62560DA9A3">
+            <Title>Hershel</Title>
+            <Text>
+Parent Location
+
+Location Type
+City
+Faction
+Fire Mages
+Related Characters
+
+Unique Features
+
+Sights
+Lots of fishing trolleys and people coming in and out of the house
+Sounds
+
+Smells
+
+Description
+
+Notes:
+Currently there is food rationing in this town
+About 20 fishing trolleys a day
+Fish markets sell out in 3-4 hours
+Drow, Gnomes, some Dwarves, and lots of Humans
+Has large crowds (even at night) that are trying to enter and exit the city
+The size of the lines are 800-900 feet
+The town was destroyed by the planet exploding
+
+</Text>
+        </Document>
+        <Document ID="206BC10E-DECA-4C3A-ACF9-DF929EEB05FF">
+            <Title>Magical Tome</Title>
+            <Text>
+Giver
+Old Tide Strong Manner
+Rewards
+
+Location
+Old Tide Strong Manner
+Factions
+
+Reason
+
+Importance
+
+Urgency
+
+Notes
+We found a smooth black leather book that is magically locked
+When thrown it spins and hovers  a bit and then falls back down
+We can’t open it and we have now idea what it is for or why
+Is the black witch in the swamp an important quest? (Town of inns keep? 2 month journey). 
+
+</Text>
+        </Document>
+        <Document ID="212D322B-2661-4E42-8F1D-0428C269EEF5">
+            <Title>Maybel Von Carsien </Title>
+            <Text>
+Race
+Half-Elf
+Class
+Art Connoisseur
+Faction
+
+Location
+
+Age
+700
+Goal
+
+Physical Description
+
+Personality
+
+Occupation
+Art Connoisseur
+Habits/Mannerisms
+
+Notes
+We sold him two paintings for a lot of gold
+He is the person who does the art and stories of the Sweet Berry wine  (Griggle’s wine)
+He slept with Denis and Denis robbed him
+He does not like the pirate lords, why?
+He paid us to ferry him to Old Tide Strong Manner and to protect him
+
+</Text>
+        </Document>
+        <Document ID="237C37FF-0990-41E4-BA4A-EB5C43BD5152">
+            <Title>Naxalith</Title>
+            <Text>
+Parent Location
+North Eastern Coast
+Location Type
+
+Faction
+
+Related Characters
+
+Unique Features
+
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+Has a rule that stuff that happens outside of Naxalith can’t be brought in here (think reverse Las Vegas)
+Crimes committed here are okay for the most part
+The peace is kept by the ruling family and all of the pirate lords as the peace is for the greater good
+Pirate City
+Dock Fee is 20 gold per day
+Naxalith re-branding fee is 12%
+Shops:
+FleshCrafter (Necromancy Doctor)
+Body Mechanic (Doctor who does tech implants)
+Bounty Hunter
+Monster Hunter
+Crusader Guy (Hostis Humani Generis)
+
+#</Text>
+        </Document>
+        <Document ID="2B249322-7AAC-4CC7-AB43-9B398C56D02A">
+            <Title>Golgotha</Title>
+            <Text>
+Parent Location
+
+Location Type
+Planet that we are all on
+Faction
+
+Related Characters
+
+Unique Features
+
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+Large Gaia world in which the oceans are fresh water and everything is beautiful, except now the poles are exploding and going into space and the world is slowly dying.
+
+#</Text>
+        </Document>
+        <Document ID="2E288C4D-CD75-41C8-9B76-3BF51272B6C0">
+            <Title>Targ the Blackfoot</Title>
+            <Text>
+Race
+Orc
+Class
+ Warlord
+Faction
+Black Tongue Tribe
+Location
+Black Tongue Tribe 
+Age
+ 42
+Goal
+ Preserve Orc culture, set aside old grudges in a new world. 
+Physical Description
+From the knees down is robotic and armor is fused with other parts of the body
+Personality
+ Friendly, Loud, Generally Agreeable. 
+Occupation
+Tribal Leader
+Habits/Mannerisms
+ 
+Notes
+This Five is a god
+Wright got a red translucent stone throne and a young Orc Shaman to be the pilot
+
+</Text>
+        </Document>
+        <Document ID="3499F9C4-D690-4ABC-B99F-308F6F1E2DB0">
+            <Title>Lord Fyrestrum  </Title>
+            <Text>
+Race
+Human
+Class
+Mage (Fire Storm Bloodline)
+Faction
+Fire Mages (Leader)
+Location
+Hershel
+Age
+45
+Goal
+To make sure the city of Hershel survives
+Physical Description
+Wears white robes, an orange pope hat, and has the fire mage’s crest.
+Personality
+Ignored Ami so either does not like women, or does not like robots
+Occupation
+Governor of the Jagged Tooth Bay
+Habits/Mannerisms
+
+Notes
+This is our pen-pal and NPC that gave us our first quest
+He has a retinue of guards
+He is the neutral-good alignment
+His full name and title is Lord Fyrestrum of the Eight Families, Controller of Jagged Tooth Bay 
+
+Died in the irruption of Hershel
+
+Speech:
+I’m sorry, I don’t want to be an Emperor. That’s not my business. I don’t want to rule or conquer anyone. I would like to help everyone if possible. 
+
+We all like to help one another, Golgothians are like that. 
+
+Even now this world has room for everyone and the broken world is still rich. And can still
+Provide for everyone. Our way of life can be free and beautiful, we just can’t lose the way. 
+
+
+Greed has poisoned men like the Pirate Lord’s souls. Now they barricade the world with hate, they think too much and feel too little for us. 
+
+More than before we need kindness or more will be lost. Without this quality your life will be nothing but violence. But do not despair the hate of men like Clint, Sullivan, Lowe and the others will pass... Dictators die. And the power they took from you, the people, will return to the people. 
+
+Let us all Unite! 
+
+Let us fight for a new world! To do away with greed! 
+
+I see there are soldiers among you and I speak to you - soldiers, don’t give yourself to brutes. Men who despise you and enslave you! Tell you what to do, what to think and what to feel! 
+
+Don’t give yourself to these unnatural men! These bastard men with evil minds and steel hearts! You are not monsters, you are men! 
+
+You the people have the power! Let us use that power to make a new world!
+
+</Text>
+        </Document>
+        <Document ID="3A4A5657-4700-48DE-89BD-F23DCF64CB66">
+            <Title>Ships</Title>
+        </Document>
+        <Document ID="3FC3CDDE-4CF2-41C6-A7EA-439B3B26B3B2">
+            <Title>Captain Clint</Title>
+            <Text>
+Race
+
+Class
+
+Faction
+
+Location
+
+Age
+
+Goal
+
+Physical Description
+12’ tall man, huge slabs of armor, wires from forehead to back of his neck, wearing power armor
+Personality
+
+Occupation
+Pirate Lord
+Habits/Mannerisms
+
+Notes
+
+
+</Text>
+        </Document>
+        <Document ID="4262E337-EF32-46A8-8952-46E3EE51329A">
+            <Title>Old Tide Strong Manner</Title>
+            <Text>
+Giver
+
+Rewards
+100 years of treasure
+Location
+
+Factions
+
+Reason
+
+Importance
+
+Urgency
+
+Notes
+Used to be a manner before it became a warehouse
+A ghost ship docks with the warehouse late a night
+The ship gives out a sirens call
+Loot of 100 years in the warehouse
+Ghost ships comes over across the mountains
+People come in and never come out
+The Warehouse is only like four miles from the shore - to the edge of the mountains is six miles to the warehouse. The ghost ship comes out of the mountains, docks with the warehouse (kinky) stays till dawn and leaves. 
+It’s become a sort of local legend with Inland Perch and the small communities that call that area home. 
+The Orcs call it The Great Black, the ship and semi worship it was a deity. 
+The ghost ship however is not transparent or ethereal and in the legends blocks out the light from the moons of Golgotha. Golgotha has two moons, one is light reactive and produces its own light and the other is just reflective.
+
+We arrived there about 4 PM
+Denis named the dingy The Ark 123456
+We disembarked and rode The Ark 123456 to the shore
+The warehouse hand tons of crates
+It was filled with juvenile mimics that were playful and friendly
+They kept turning into items we held, items in the room, items in the box, items on the ship, us, etc.
+We took the box to The Ark
+Wright found out they were mimics and shot the monkey and a fight happened…
+We found the queen mimic and it is the “ghost ship” that could fly and it can control all of the other mimics
+Donald talked tot he mimics and talk to the queen mimic
+We found some loot and paintings, etc.
+Wet got an egg
+Barren Dawn trusts us since we worked well with the queen mimic (old battle buddy)
+
+</Text>
+        </Document>
+        <Document ID="432CD2FC-9D06-4705-B587-7697813F311E">
+            <Title>Shattered Vault #1</Title>
+            <Text>
+Parent Location
+Jagged Tooth Bay
+Location Type
+Shattered Vault
+Faction
+
+Related Characters
+Lord Fyrestrum
+Unique Features
+Has the ability to go beneath ground and into the vault
+Sights
+Campsite on surface world
+Sounds
+
+Smells
+
+Description
+
+Notes:
+Outside
+The grass outside of the hedges is 2-3 feet tall, but inside the hedges (about 3 acres) is shorter grass cut into a square. 
+Overgrown trees and hedgers, parted by mossy roads.  The road leads to a geodesic dome.
+This is common for most old shattered sites.
+The place emits electrical pulses that make people’s hair stand up and emits purple electricity.
+Leaves and light loose items will jump when the electricity is emitted.
+Two human statues covered in moss and grim
+The site was covered in papers
+Inside the geodesic dome there is shattered time tiles
+In the center of the geodesic dome there is a 4’ tall pedestal with four beams coming out and two circles outside of that
+When activated it is the entranceway
+One burned notebook inside the campfire
+The pattern on the ground is etched into the stones all around the geodesic dome
+When you touch the coil on the cover of the pipe in the center, you get transported into the vault, for people on the surface a purple light shines and you hear a loud mechanical whirl
+Inside
+There is a control panel in the first room
+The second room appears to be a derelict hydroponic farm.
+The room has two wells
+The grow light in the middle of the room that is rotating on top of what used to be a fountain. The light seems to be keeping the plants alive 
+There is a bush that has four crimson berries each on it the size of softballs. The berries are a variant of a sweet berry
+Kissing Moth eggs are in three separate groups and the eggs are the size of soda cans, the moths are 7”-8” inch wings and eat the berries. They seem to come to this room to feed, but mostly live in the wells down below
+The Kissing months attach by landing on you and biting you and trying to suffocate you
+Large tentacles around the pedestal started picking up dead Kissing Moths and feeding it to it rotating teeth in the well
+The room also had two cameras
+The exit door was booby-trapped with a black electrical box, and the trap reset every few minutes
+The third room had a large animatron that is controlled by a console in this room
+There is a small gnome in black clothes and the Fire Mage coin on his person
+There is a low detailed animatron that is a colossus (12’ tall). This being is able to communicate with other constructs via telepathy and tried to mind control them
+The colossus has implants in their heads to try and be controlled as machines for mining/excavation, but they allegedly went crazy killing the other three members of the expedition crew
+The AI calls itself The Entity
+H’use C’ntral  is talking to the automatons
+The console has four options, and a log with timestamps they were done
+Intruder (Off, we disabled) 
+Disable Alarm (Off)
+Operation Failsafe Protocol (On)
+Detection of Evil (Off, we disabled)
+We found a laser pistol and some ammo in this room
+The last room had some lockers and and rations and appeared to be a kitchen
+We found an ooze and and some schematics that we can sell
+
+ </Text>
+        </Document>
+        <Document ID="4D4B6834-449D-4330-B5A0-A10FDAB71D4D">
+            <Title>Hessian</Title>
+            <Text>
+Parent Location
+
+Location Type
+
+Faction
+
+Related Characters
+
+Unique Features
+Black Throne
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+There is a person who seems to have their nervous system connected to the ship, they are called the Black Throne
+Former slaver ship
+Each side has 12 automatic reloading cannons
+Really thick hull, with iron reinforced wood
+We have a pirate crew of 32 people, 8 are former pirates
+Five is Captain
+Godrel is first mate
+Cordelia is Quartermaster
+Wright is Engineer
+At sea upkeep cost is 5-6 gold per day
+At docks it is 20 gold per day
+
+</Text>
+        </Document>
+        <Document ID="5080EF59-EE51-4E0F-BFEC-2F680EC0F159">
+            <Title>Twist Black</Title>
+            <Text>
+Giver
+Orcs
+Rewards
+World doesn’t blow up
+Location
+The ship knows
+Factions
+Orcs and Dragons
+Reason
+Evil god trying to destroy the world
+Importance
+High
+Urgency
+Low
+Notes
+
+
+</Text>
+        </Document>
+        <Document ID="53837B95-B8C4-4AD2-A302-4BA8C9E98673">
+            <Title>North Eastern Coast</Title>
+            <Text>
+Parent Location
+Golgotha
+Location Type
+Main coastal region of the game
+Faction
+
+Related Characters
+
+Unique Features
+
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+
+
+ </Text>
+        </Document>
+        <Document ID="57DDB283-03E1-43E2-B403-2F1F4406C494">
+            <Title>Barren Dawn (Our Ship)</Title>
+            <Text>
+Parent Location
+
+Location Type
+Ship
+Faction
+US!
+Related Characters
+Cyrus
+Unique Features
+Gore Tech
+Sights
+
+Sounds
+
+Smells
+
+Description
+Big black cylinder
+Notes:
+Ship is a black cylinder
+The main armament of the ship is directly in the middle - like a giant cannon. It’s inoperable. 
+You have six side cannons - they have normal shot, twelve explosion shots and two shots of a green ball that hums.
+If you gently tap the green shot with a metal tool, it will hover and begin to rotate counter clockwise
+When inside the ship, unless the gravity system fails - you’ll never know which way you’re facing. The ship is a Viewless model. You use sensors and a hard light heads up display projection for the outside
+The inside core, the metal heavy core of the ship is always rotating - and when you guys dock the ship will right itself so you guys can leave properly - there are ladders and a small free hanging elevator on the bottom. 
+But yeah if you crash, it could be fucked how you guys end up getting out
+Or if you’re upside down and you don’t know it and try to get out
+It also makes the Barren Dawn nearly impossible to board without dimensional door or teleportation  boarding
+And most pirates / war ships don’t have that kind of Tech/ magic
+Cannons have am effective range of 1200 yards
+More if you can volley them
+Max 1600-1700
+Cyrus’ old ship
+You walk in the back end of it
+Gravity is horizontal inside the ship, it creates its own gravity
+With upgrades it could:
+Burrow
+Fly
+And Hover
+Sub is currently submersible only
+Two football fields in size
+Shielding and a couple of ports that could be freed up
+The ship has Wright as the possession holder
+The ship has AI and is self aware
+Ship is powered through pain and suffering
+Large furnace in which we can throw undead and the living to power the ship
+Need to hire a magic user willing to bond with the throne
+Maintenance without combat is 6 gold per month
+The Ship is imprinted on Wright and AMI
+We set AMI’s necklace for an encryption key for the Barren Dawn
+Around 180-200 miles a day is the sub and flying speed
+With the throne and pilot the Main Hull gun / idle hover and slow fly will be granted. Along with a half stable void shield. 
+
+</Text>
+        </Document>
+        <Document ID="5AA0F0ED-A05B-463C-B7C1-55DBA84C1169">
+            <Title>Atlantians</Title>
+            <Text>
+Leader
+
+Locations
+
+Related Characters
+
+Goal
+
+Personality
+
+Feeling Towards Us
+
+Notes
+Precursor race that did all of the shattered
+Legend has it that they took a regular lobster and over generations kept cracking its shell so it could keep growing bigger and they made a giant sea monster
+
+</Text>
+        </Document>
+        <Document ID="5C03DE09-C285-48ED-827F-78E62B7D0F72">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="5CFEB757-2A21-4E2C-AFCE-67C800C04A8E">
+            <Title>Session Notes</Title>
+            <Text>Session Recap 11/22/2020
+There was a small stage being built in Inland Perch and a bunch of bards were setting up their instruments
+They asked if it was Cordelia and they gave her a nude oil painting of her on a bed covered in flowers
+They then proceed to sing a really elaborate song about love directed towards Denis
+Denis got a bill for 3,000 gold
+The confetti as the same symbol as the wax symbol as the person who always give Denis letters
+Apparently the person who bought the painting owns a merchant guild in Brawl
+The guy that did this hired a bunch of mercenaries to save Brawl from the pit and now owns the city
+Dillon was in the Dynamite Shack (a brothel) and killed a prostitute and was being arrested and put in shackles
+Dillon then made a giant grow large and it started attacking people
+Denis got a bag of devouring and it killed his familiar
+Dillon is a Time mage and related to Clive Lonely
+He has a bracelet that says he belongs to an insane asylum
+Donald’s crab and Denis both knock out Dillon and tie him up and put him on our ship
+We started the session in the month of Craft Beer and this is the start of winter.
+The harvest has been light and this will be on the worst winters of all time.
+Zeperos is the wind god of Golgotha
+Famine is spreading and it causing the the strong to take from the weak
+We winterized our gear… for nothing
+Donald wore Gnull fur to meet the Gnulls
+Wright and AMI untied Slim and gave him a private room in which he played his bagpipes
+Denis got fucked up by a bag of devouring
+We found tracks leading up the the ruins
+Donald keeps spraying himself with grease
+Donald summons Mastiff
+We found a three portal puzzle and Denis solved it, most of us took the stairs though
+The place was dedicated to the refugees and misfits and unwanted
+The place had some booby-traps
+We ran into some Gnulls and got into a fight, but then we talked it out and became peaceful
+The Gnull leader took us to another room where there was a power core console
+The room with the core console had a bunch of hook horror eggs, Denis got to keep one as a pet
+Denis put the power core  inside the console and the door closed and we turned into statues for 9 months (which we don’t know yet)
+This room is very important and will be one main way to unlock stuff on the Dragon story arch
+This time machine can stop time
+Now the pirates are going crazy and things are getting a lot worse
+We can use this machine to look back at events in history and answer a lot of questions
+Edgar Friendly - unable to find Captain Knave attempts to besiege AMI’s LOVE. Both The Bone Family and Captain Clint try to persuade him it is an unwise move. He is repelled by two different micro cults that have formed inside AMI’s LOVE. The Great Machine Order and The Arisen Dragon. Both fought viciously for control over the town from Friendly. </Text>
+        </Document>
+        <Document ID="6231A4F3-163F-4936-8253-92B3F78241C6">
+            <Title>Quests</Title>
+        </Document>
+        <Document ID="6261FF70-F2B2-44DE-9D72-F6926F57D723">
+            <Title>The Grifters</Title>
+            <Text>
+Leader
+Unsure
+Locations
+Hershel
+Related Characters
+Unknown child that tried to rob Denis
+Goal
+Pickpocket people
+Personality
+
+Feeling Towards Us
+
+Notes
+They tried to steal from Denis and were caught.
+It was only one kid, but there was a group of the same clothes and seemed to be together, even though they did not all participate in the pickpocketing.
+They wear purples and greens and have a set outfit.
+Children thieves guild
+
+</Text>
+        </Document>
+        <Document ID="64259C88-0DEE-48FE-B150-310145EB5928">
+            <Title>Patron</Title>
+            <Text>
+Race
+Elf
+Class
+Devil / Demon
+Faction
+
+Location
+Brawl
+Age
+
+Goal
+Kill Angel
+Physical Description
+Black suit, red tie
+Personality
+Super arrogant, narcissistic
+Occupation
+Devil / Mayor of Brawl
+Habits/Mannerisms
+Talks with his hands
+Notes
+#
+Symbol of Brawl and also the symbol of Denis’ patron
+Controls imps, guards, runs the town of Brawl and is very rich
+Took Denis’ soul when he was a child and has given her magical powers
+One of the few really powerful magical creatures left
+He knows what we do and have video evidence of Cordelia blowing up Naxalith
+He exposes Cordelia’s acts to the group
+#
+Bag of weed symbol
+
+</Text>
+        </Document>
+        <Document ID="657AFF1F-E55F-4270-BC46-23A7D78B0770">
+            <Title>Info Dump</Title>
+            <Text>Golgotha was a primitive and savage Eden before the arrival of the Stars themselves. Wrought by violence and drought, the people of the land relied on the benevolent Giants to keep the beasts away. 
+
+In their care, societies flourished and peace was carved from the landscape. 
+
+The Giants receded back into the Wilderness, for their journey had been fulfilled. They were an old race, not to be bothered by the affairs of the now united smaller kin. So they went and for years this remained so. 
+
+Until the Stars began to fall and the dragons of Golgotha were born from the stars
+Molten cores. With them came The Gods and the emergence of magic onto the realm. And it was amazing. 
+
+But the power drove the smaller kin to break old treaties and encroach upon land that was never theirs. Spurned on by their new masters the smaller kin races warred for the plentiful resources of the land. Driven by the Star Dragons history was erased and yet again the Giants receded land to the smaller kins. 
+
+In the burning ashes of the first world the second world was formed - the world of The Gods. In their arrogance and almighty power the Dragons created offspring, the very hopes and desires of Golgothian cultures made into flesh. Carved from reality and Golgotha herself, the pantheon of Golagotha was born. 
+
+But even Star Dragons and World Giants are not immortal and their time would come, but it was not age that took them. It was greed. The land was toxic to the Star Dragons and the beings they birthed, The Gods, had no intentions of helping. Through dark magic and barbarity the darker races of the smaller kin spirited away a Giant to learn their secrets of longevity. 
+
+So began the Dragon Fire Era, were the smaller kin failed to protect the Giants in their hour of need. Instead watching them be devoured by the Gods they worshiped. 
+
+The dragons plan ultimately failed however, their ill-perceived plan was ruined as the young they created feasted secretly upon the corpses of the giants. Stealing the power their fathers and mothers desperately needed. 
+
+The Dragons were cast out just as the Giants had been, to waste away on the edge of civilization.  
+
+Giants and Dragons all but forgotten as Golgotha aged into its Age Of Gods. For the Gods walked amongst the Golgothian people and the children of The Stars now controlled the pen that wrote history. 
+
+Only two remained of the ancient races. One tended to by a race that had not forgotten them and had died by the thousands to protect them - forever fragmenting their society into tribal nomads. That race was the orcs and that being was The Last Giant. Titan of all They Behold, The Mournful First Man and the many other great names he had been called in orcish tongue as eras past. 
+
+The orc society never recovered, it would never see the glory of its former self that was crushed between the diamond claws of star armored beings and lit ablaze by multicolored cosmic fire as its ashes were carried away by the laughter of hungry godlings. 
+
+But it felt in its heart and soul it had a greater purpose, one that was better than towering cities and lavish displays of power. Preservation of history, the protection and hiding of the true progenitor of this world and cultures. 
+
+But it wasn’t enough, in the end the last dragon came. It’s once glorious stars burned out, a seething mass of black and void. Chilling the air and devouring life as it paced. For it too had been found and tended to. But by far different beings. 
+
+The Orcs pleaded for the other races to assist. When they didn’t, they began to raid the local land for arms and weaponry to use against the Twisted Black and its foul armies from Underneath. 
+
+They held for months, alone, against the armies of the dark. 
+
+Yet they still pleaded, a proud race forced to beg.
+
+ But they were not heard and the truth was hidden behind the Last War- the Orc Rebellion as it was called. 
+
+Accused of summoning the same creature they tried to defeat, they were forced to hold the burden of The Moments. 
+
+A psychic scarring caused by the death throes of Hulgar Of The Spire Peak People, Carve Father Of Five and last of his race. 
+
+So the Greenskins lashed out as a people against the civilized world with typical results. 
+
+The Orc Rebellion lasted four years after the death of Hulgar - four grueling years of past versus present.  
+
+——————————————————————————————————————————————————————
+Twisted Black - Last of the Star Dragons, great deceiver of the first age. Driven out and then driven mad. He still twists and turns in his eternal agony within the mountain’s embrace - the last gift of Hulgar, his final trap. 
+
+Hulgar - The last of the World Giants, pieces of his essence and soul used to craft one of the Men Of Forever. Twisted Black attacked moments after Five’s completion. Hulgar was quickly devoured by Twisted Black. But giving time wrought by his blood to not only the Orcs who protected but his legacy- Five. 
+——————————————————————————————————————————————————————
+
+Golgothian Culture of today is built on the lies of the Godlings and their claims. To test that lie, to open that book and unfold that note would be catastrophic for the very core of an already bankrupt society.
+
+But in the era of the Shards, is that lie even worth continuing? 
+
+Should we really mourn the loss of cannibal gods?
+</Text>
+        </Document>
+        <Document ID="66983230-7311-4FCB-80D5-A06A713A20D9">
+            <Title>Fire Mages</Title>
+            <Text>
+Leader
+Lord Fyrestrum 
+Locations
+Hershel
+Related Characters
+
+Goal
+
+Personality
+Seems to care about the peasants and people
+Feeling Towards Us
+
+Notes
+Wants us to do missions where we both can profit and help his other followers.
+Their crest is symbol of a campfire with four distinct arching flames on copper coins that size of a human fist
+
+</Text>
+        </Document>
+        <Document ID="6830B6AC-686B-4370-A979-2FD1D7288BDA">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="686F0475-9EA7-4777-8870-267EFEF73A06">
+            <Title>To-Do</Title>
+            <Text>Code Monk Ki Abilities
+Don’t forget to create items for the Christmas episode
+Golden/Fancy Bong/Pipe For Brian engraved “Hero of the People”
+Golden/Fancy Flask for Donald engraved “Capitan Gallowlight”
+Golden/Fancy Telescope engraved “Captain Nave”
+A musical book (the kind you read notes off of) signed by a famous bard in dedication to Dillon character
+Bees Wax and fine silk handkerchief embroidered with Five’s proper name
+I plan to roleplay with Denis about his situtaion since the party does not really seem to understand what to do:
+Have Wright approach Cordelia about being possessed and having her soul taken and he gets she is in a tough situation. Cordelia has always been nice to AMI and to return the favor (if she wants) he will see what he can do to get her out of the contract. She might not know this but Wright is an outstanding bureaucrat. 
+What are my building options for my ship?
+Can you add notes for what I missed when Jeff and I was in the naughty corner?
+Make Dillon’s chicken
+Make Denis’ hook horror
+Add the boat Dillon bought to his party sheet (if he didn’t)
+Did you add those two potions of anti-toxin to the party sheet?
+Build Jeff’s water walking shoes</Text>
+        </Document>
+        <Document ID="693F2B16-D2CB-4D2D-AD7F-59DD7299A739">
+            <Title>Red Paw</Title>
+            <Text>
+Race
+Orc
+Class
+
+Faction
+Black Tongue Tribe (New Ways)
+Location
+
+Age
+
+Goal
+
+Physical Description
+Missing an ear and tusk on the same side, left arm is a single blade
+Personality
+
+Occupation
+
+Habits/Mannerisms
+
+Notes
+
+</Text>
+        </Document>
+        <Document ID="69822417-D015-4BDD-90BD-18AAA6198D15">
+            <Title>Notes</Title>
+        </Document>
+        <Document ID="6A3A9912-15BF-42C8-8766-B346AA22B3E2">
+            <Title>Miscellaneous</Title>
+            <Text>Finances/Ship
+Pirates get paid 2% if they are low level, but skilled
+Pirates get paid 8% if they are vanguard and highly skilled
+Naxalith re-branding fee is 12%
+The undead that service our ship can leave the ship and find people and do mundane tasks
+25% Legacy Fee goes to Wright for maintaining a ship
+Rick and Mick 250 gold from any take - and 1% over a thousand (each) - Denis private crew and he pays them
+Wright owns the city of AMI’s Love
+Denis owns a bar in the Black Tongue Tribe and a bar in AMI’s Love
+
+Jeff Sub-Plot
+Jeff only has 18 refugees left (out of 22)
+
+Denis Sub-Plot
+Denis also got a half melted cannon ball from Friendly’s ship
+Denis keeps getting letters and stuff on our ship
+Denis received a chest with four sacks, each sack containing heads of the sailors he hired to give him the package in Hershel
+When Denis has possession of a map a small skull and crossbones will form over Naxalith, if he holds it for more than 24 hours
+Denis now has a book containing his family tree
+</Text>
+        </Document>
+        <Document ID="6EED0885-0E44-4126-9D22-BA70C714D68B">
+            <Title>Last Titan's Grip</Title>
+            <Text>
+Parent Location
+
+Location Type
+Dungeon
+Faction
+
+Related Characters
+Lonely Clive?
+Unique Features
+Giant 200’ Sword and giant crack
+Sights
+Giant sword
+Sounds
+
+Smells
+
+Description
+
+Notes:
+Giant canyon with a sword sticking out of it.
+Lots of tunnels filled with lava
+Has a giant red orb
+Has a giant skull
+Has a person who went insane and tried to protect it
+
+</Text>
+        </Document>
+        <Document ID="723E3117-60F7-4A94-829B-C5AF2317FC8C">
+            <Title>Caravan Supplies &amp; Trading Company</Title>
+            <Text>
+Leader
+Mr. Friendly
+Locations
+Pirate Ship/Trading Ship
+Related Characters
+Mr. Friendly
+Goal
+
+Personality
+
+Feeling Towards Us
+Friendly
+Notes
+The caption took us and our refugees into their airship and allowed us to stay so long as we made ourselves useful.
+He seems to be pretty nice, and intuitive about things and seems interested in our relationship with Lord Fyrestrum
+We are not entirely sure of his motives or why is taking us to Naxalith
+
+</Text>
+        </Document>
+        <Document ID="760BB8FA-5C26-4678-B4FD-EFCF896A8D54">
+            <Title>Mr. Friendly's Revenge</Title>
+            <Text>
+Giver
+Denis
+Rewards
+Denis doesn’t die
+Location
+Naxalith
+Factions
+Caravan Supplies &amp; Trading Company
+Reason
+Denis blew up his ship and the rest of the dock
+Importance
+High
+Urgency
+High
+Notes
+The throne of the Marvelous Clive will have records of Denis fucking around and being the one to blow up the ship.
+Friendly does assume Denis had help rigging the ship
+We have to let Cyrus cover up the crime, Denis is now in his debt
+
+</Text>
+        </Document>
+        <Document ID="7A096EF0-A94E-403E-9CF3-30ED45FDDF0B">
+            <Title>The Good Nip</Title>
+            <Text>
+Parent Location
+Inland Perch
+Location Type
+Bar/Tavern
+Faction
+
+Related Characters
+
+Unique Features
+
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+Best bar/tavern in all of the Inland Perch
+It’s sign is an Orc with exposed breasts
+
+</Text>
+        </Document>
+        <Document ID="7A37AEE6-29F0-421D-A781-2748F6103276">
+            <Title>Captian Punch</Title>
+            <Text>
+Race
+
+Class
+
+Faction
+
+Location
+
+Age
+
+Goal
+
+Physical Description
+
+Personality
+
+Occupation
+
+Habits/Mannerisms
+
+Notes
+Punch does not like Mr. Friendly because Friendly marooned him on an island.
+
+</Text>
+        </Document>
+        <Document ID="7B31EA4C-90A8-458E-9BED-7A70351E015F">
+            <Title>Key Notes</Title>
+            <Text>When In Brawl
+Figure out why Denis’ family is being wiped out
+Find out about the magic locked tome
+Additional
+At some point we should ask Old Man St. McGee about our gore tech ship since he fought in
+Ship Upgrades
+We need to figure out how to get my character to be able to summon the ship
+How do we get flying?
+What is the new Orc mage up to?
+Treasure Map
+Denis found a map of Golgotha in a journal. The map there is seven places marked
+The map says “He who holds this map holds the 12 treasures of Golgotha. Denis clearly has to give it to a man, since he is not a he.
+On the back of the map, there are nine names that have been faded on the back - it appears to be the pirate lords.
+Old Key Notes
+We got the location of the Twisted Black, the ship knows the locations
+The Twisted Black is kept by a group called the “we unclean” we need to figure out who they are and why they want to free it
+Waiting for Sweet Berry wine to come out for RP purposes
+Laser ammo is worth 300-400 gold
+We need to be pirate lords before we can go back to Naxalith
+We need to find out “The Moments” are
+There are 12 Wondrous Items of Golgotha and we have crippled or destroyed 2 of them, not sure if that is good or bad.
+Reminder to Denis to try and convince the rest of the party to travel to Brawl, his family tree getting wiped out (using his magic book)
+We need to find out where the “Forever Men” went
+Donald has to do checks if he does not feed or he gets into a blood lust
+Found out about the Protistian
+Denis did a misinformation campaign about Orcs killing the Weatherperson family
+Refugees agreed to donate blood to feed the ship (and secretly Donald)
+Godrel got renamed Gallowlight
+We need to figure out how to get the data off the pearl
+We can do the Golden Gate cult mission, the reward is 40,000 but not much details besides that.
+Session Recap 11/29/2020
+AMI town has grown and flourished black market communities
+AMI town has has two cults:
+Cult of the Arising Dragon
+Our Lady of Electric Lights
+We now have doppelgangers named “The Warriors of Golgotha”
+Captain Nave the Butcher of Golgotha 
+Captain Godrel the Merciless Tide
+Wright Fleet Master of the Scarred Fleet
+Our doppelgangers are fighting against Friendly and bringing reign to the pirate lords
+We woke up on a stage surrounded by people drinking, eating, and smoking at a fancy party, we are on a stage
+The cave and the time machine where moved here by Denis patron
+Guards come and get us and escort us to Denis’ Patron
+We are in a secret room talking to the Patron and he introduces himself
+See Patron for more notes
+Cordelia cries a lot
+We met Brian’s character, buff monk covered in tattoos and he beat a slaver to death
+Donald then ate the body to help cover up the crime
+Cordelia then froze everyone in place
+We got knocked out and placed in individual rooms with letters from the Patron, and provided food, water, etc.
+Brian’s character has been killing the Patron’s people
+Took us to his long dinning hall
+Cordelia found out she is a warlock and the bride to be to a devil
+Slim  pickings recognized an imp that changes into a beautiful bard
+The Patron orders someone to shoot AMI and ends up shooting Godrel and the servant is then murdered for missing
+The Patron then knows Cordelia out
+Rick and Mick got super powerful and no longer work for Cordelia. They have lots of connections and prospered without us.
+The Patron then killed a hostage from the Crusaders
+The Patron then informed us as to why we are here, to hunt down the angel the crusaders worship and kill it
+The Angel wants to kill the Devil and and take back the Brawl
+He threatened to kill us if we disagreed
+The Angel allegedly kills people over very minor and petty crimes IE stealing bread
+We found out about being inactive for 90 months, the year is 4296
+Wright shits himself to get him and AMI excused from the room (to try and escape)
+Wright then build a glide and climbs to the top of the building and glides to safety with AMI
+The Patron then threatens to cut off someone’s arm for Wright escaping
+Jeff came up with the idea to punish the guard that was supposed to be watching Wright
+Slim Pickings then gave Godrel and blowjob so Slim Pickings did not have his arm cut off
+After they were sent back to their rooms and given formal wear and an invitation to a party
+Wright built a giant cannon grappling hook with a zip-line attached
+Five then escaped to go look for Wright
+Brian sold his soul for a bag of endless weed
+Dillon sold his soul for sanity
+Donald sold his soul to kill Cyrus and free himself
+Ami’s Town now has a symbol and under it is says “Our Lady of Electric Lights”
+We are all in Brawl
+The Dawn Bringer got stolen and is captained our doppelgangers
+The doppelgangers have another ship (traditional three sail)
+They are fighting Friendly and are normally in the norther sea
+Captain Clint is in the southern hemisphere against the crusaders
+Friendly has the new mimic ship
+Rat creatures show up into cities before they are sunken under the water
+Wright got a new and slow ship
+Engine is powered by spell slots
+It can fly
+ Brandon’s character gives money to the poor
+We voted to have Donald as captain
+We are now in the Perch and it is very overcrowded and has lots of crime 8,000 vs 38,000.
+We go into a seethe bar with easy people, cheap booze, and gambling
+We had a crab fight and Denis banged a piano player and then had another mental breakdown and the party tried to console her
+Friendly is paid for and own by Brawl so that is why he doesn’t attack them
+Denis wants to find out about his family
+We will do the Tome Quest next week
+Brandon tried to drug Dillon
+Targ was assassinated 3 years after our disappearance for voting to protect AMI’s Love
+Red Fist Orc took over Orc culture by conquering the Blackfoot and the Sky Cry tribes
+The Orcs now control most of the gigantic paw paw woods
+The have once again enslaving people on the west
+AMI’s love have a new religion (Our Lady of Electric Lights)
+AMI’s love has clean water, food, and hydroponics facility
+The Perch is now control by the cult of the Risen Dragon
+Mick and Rick now own Traders LLC
+The members of the Our Lady of Electric Lights do not believe the Warriors of Golgotha are the real people
+Our doppelgangers are far more competent than us
+Edgar Friendly now has a mimic ship
+We are heading to the swap, we bought a boat and a wagon
+As we are leaving town, a town crier is talking about murders happening in the town
+Cordelia tried to put a curse on Five
+Next session will have swamp humanoid (known as the Bellowers) creatures that are hostile to outsiders
+
+ 
+Questions for the Group
+What should our fleet/armada name be?
+We need to fuck Friendly up, how do we get it?
+What should we do about Cordelia?</Text>
+        </Document>
+        <Document ID="7D45CEB6-482D-4E3D-9811-33DA544942DB">
+            <Title>AMI's Love</Title>
+            <Text>
+Parent Location
+Old Tide Strong Manner
+Location Type
+City
+Faction
+Us
+Related Characters
+Mimic Ship
+Unique Features
+
+Sights
+
+Sounds
+
+Smells
+
+Description
+Used to be Old Tide Strong Manner
+Notes:
+After taking care of the Old Tide Strong Manner and removing the queen mimic we decided to help the refugees of the Inland Perch to find a place to stay
+The could take the existing tents and food stuffs that was there as a way to start to build the city.
+Additionally the vast amounts of wrecked ships provides more supplies and building materials.
+Wright decided to build and fund the city in the name of AMI.
+He took an $8,000 donation from they mayor of Inland perch and then took 2,000 from Cordelia as a permit to build her bar/drug den there.
+We can use Old Time Strong Manner as a safe-house for our stuff
+Herbert Carpet gave Wright 8,000 to help move refugees out of the Inland perch and into AMI’s Love
+Denis owns a bar in AMI’s Love (paid 2,000 gold)
+#
+
+</Text>
+        </Document>
+        <Document ID="7EC31F9A-DE99-4F4B-94BE-9FB6BEEAE5F8">
+            <Title>Quest Template</Title>
+            <Text>
+Giver
+
+Rewards
+
+Location
+
+Factions
+
+Reason
+
+Importance
+
+Urgency
+
+Notes
+
+</Text>
+        </Document>
+        <Document ID="8426E223-A0A3-4535-AE01-2B7AFBA9E309">
+            <Title>Dead</Title>
+        </Document>
+        <Document ID="84B5667D-D9F9-439A-8E6E-150A82584415">
+            <Title>Inland Pearch</Title>
+            <Text>
+Parent Location
+Jagged Tooth Bay
+Location Type
+City
+Faction
+
+Related Characters
+Herbert Carpet
+Unique Features
+
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+Refugees keep being stole by Orcs, city is trading them away for safety
+We found a kid named Tibius pretending to be a dock worker who was trying to scam us out of silver
+Inland Perch trades a handful of useless (unskilled and unhelpful) refugees to the orcs are tribute to keep their town safe (5-6 a week), mimics eat the dead bodies
+
+</Text>
+        </Document>
+        <Document ID="85F2C1B6-BE94-4954-AC19-83155A7814E3">
+            <Title>Location Template</Title>
+            <Text>
+Parent Location
+
+Location Type
+
+Faction
+
+Related Characters
+
+Unique Features
+
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+
+
+</Text>
+        </Document>
+        <Document ID="8E59872F-AAD3-45EB-A979-4FEB6D328C1F">
+            <Title>Sand Kings</Title>
+            <Text>
+Giver
+Monster Hunter
+Rewards
+1,500 gold
+Location
+Naxalith
+Factions
+
+Reason
+
+Importance
+
+Urgency
+
+Notes
+Four day journey into the ocean
+It is a on a small free-floating island
+They 4’ long 2’ tall centipede that have scorpion tails
+There are 3 colonies at war with each other
+We need to gather the queens from each color
+red
+black
+yellow
+He has never seen a queen before
+But he has seen the soldier and worker versions
+Queens have to be alive
+
+</Text>
+        </Document>
+        <Document ID="90410776-4EFE-4AE9-9D4C-E489BB46AC06">
+            <Title>The Cyrus Problem</Title>
+            <Text>
+Giver
+Cyrus
+Rewards
+Denis and Donald no longer Controlled
+Location
+Naxalith
+Factions
+
+Reason
+Denis and Donald Owe a Debt
+Importance
+Medium
+Urgency
+Low
+Notes
+Cyrus owns Donald by making him his vampire slave
+Cyrus owns Denis for coving up the Naxalith harbor attack
+
+</Text>
+        </Document>
+        <Document ID="90C16C55-D8E9-4F4E-AB1B-E4487D710FC3">
+            <Title>Cyrus</Title>
+            <Text>
+Race
+Half-Orc
+Class
+
+Faction
+
+Location
+
+Age
+
+Goal
+
+Physical Description
+Left arm is cut off at the elbow
+Gestures around with a nub
+He is left handed
+
+Personality
+
+Occupation
+
+Habits/Mannerisms
+
+Notes
+Followed by a tall mime (chaotic evil)
+Carries two whips
+Traded us the Hessian for Wright’s ship
+He is the one that turned Godrel into a vampire
+He knows Cordelia is the one that destroyed Naxalith
+Runs Naxalith’s underground market
+Gave us the Barren Dawn (our ship)
+
+</Text>
+        </Document>
+        <Document ID="917BA082-FE60-4E02-A500-5D3EEF6C7FE2">
+            <Title>Questions</Title>
+            <Text>What is the Patron’s name?
+How did the steal the Barren Dawn? It is imprinted on my and AMI and AMI has a necklace which is the override key and master key?</Text>
+        </Document>
+        <Document ID="964747CF-523F-49AF-AEAB-5DEEE2303C46">
+            <Title>Five to Avenge Hulgar</Title>
+            <Text>
+Giver
+Hulgar
+Rewards
+Five’s backstory
+Location
+Mountains near Naxalith
+Factions
+Orcs
+Reason
+Evil god is trapped
+Importance
+High
+Urgency
+Low
+Notes
+See Info Dump for more information
+Kill the Twisted Black (see info dump)
+
+</Text>
+        </Document>
+        <Document ID="9A335BB3-D508-4788-9522-0C7D2A45955B">
+            <Title>Faction Template</Title>
+            <Text>
+Leader
+
+Locations
+
+Related Characters
+
+Goal
+
+Personality
+
+Feeling Towards Us
+
+Notes
+
+</Text>
+        </Document>
+        <Document ID="9D9E20D8-F2A8-42B1-B7F1-49F239CA8558">
+            <Title>Black Tongue Orc Tribe</Title>
+            <Text>
+Leader
+Targ the Blackfoot
+Locations
+
+Related Characters
+
+Goal
+
+Personality
+Friendly to us
+Feeling Towards Us
+Thinks we are sent by the gods
+Notes
+Wright got a red translucent stone throne and a young Orc Shaman to be the pilot
+Allowed us to build AMI’s Love
+
+</Text>
+        </Document>
+        <Document ID="9FBFF08C-B905-4416-9389-CC7CD0355084">
+            <Title>The Ark 123456</Title>
+            <Text>
+Parent Location
+Barren Dawn
+Location Type
+Dingy/Life Raft
+Faction
+Us
+Related Characters
+
+Unique Features
+Small inflatable raft that is how you you go on land from the Barren Dawn
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+Small craft that comes out of the backside of the Barren Dawn
+Has 80 HP
+
+</Text>
+        </Document>
+        <Document ID="A0B6D1F3-2D18-44B6-81E0-3BB01F379E80">
+            <Title>Dwarven Slayer Vow</Title>
+            <Text>
+Giver
+Denis!
+Rewards
+Denis not getting killed
+Location
+
+Factions
+
+Reason
+Denis blew up Naxalith port causing this issue
+Importance
+High
+Urgency
+Medium
+Notes
+Denis blew up the port of Naxalith causing the Dwarves to take a slayers vow
+With one of the last sane ones being ambushed in an explosion to kill one of his best friends. Also killed most of his crew and his Quarter Master human friend Grux of Vancliff
+The entire race of Dwarves would now kill Denis’ character.
+I think we could get the dwarves to blame the crusade. Two mega forces hate each other. The crusade seems to be good guys though, but they already want to kill the pirates. That or blame the pirate lords (which … is sort of true) and get the dwarves and the crusade to work together. - The Hospitaller Crusade is on common ground now with the Dwarves. They have also started talks to help rebuild the dock and damaged buildings.
+
+</Text>
+        </Document>
+        <Document ID="A49D6967-D058-4A68-A2CC-7E7588824F0E">
+            <Title>Join a Crusade</Title>
+            <Text>
+Giver
+
+Rewards
+
+Location
+
+Factions
+
+Reason
+
+Importance
+
+Urgency
+
+Notes
+
+
+</Text>
+        </Document>
+        <Document ID="AE4D73B1-CA0B-4A44-9E77-C5412E96E2D8">
+            <Title>Brawl</Title>
+            <Text>
+Parent Location
+Northern Hemisphere
+Location Type
+City (Merchant)
+Faction
+
+Related Characters
+
+Unique Features
+
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+Mr. Friendly won’t attack this place, or any ships from here.
+186 days away from Naxalith by sub
+
+</Text>
+        </Document>
+        <Document ID="B15FDF4F-D1A6-41F3-9030-0BEAAE01B50A">
+            <Title>Titan's Last Grip</Title>
+            <Text>
+Giver
+None
+Rewards
+Red Orb USB
+Location
+Giant Sword in Crack
+Factions
+
+Reason
+A quest for Jeff
+Importance
+
+Urgency
+
+Notes
+
+We went to Titian’s Last Grip and saw a canyon with a tent and rigging and clear signs of exploration
+Pitons is pronounce pee tons, like tons of pee.
+Jeff descended his own way. Wright and AMI used spider climb, and Denis used the rope and ratchet system. 
+Jeff would use ropes and pitons and I would do wall climb around obstacles
+We found an illusion which turned out to be a trap. The trap was based around a target dummy and three chests of treasure, we only managed to recover one chest.
+There was a giant skull with a lava pit and a small island with a large red pearl in it
+There was a barricade that was blocking our path. The barricade was a trap (true polymorph) and turned Wright into a weasel and Cordelia turned into a cat.
+The trap has a radius of 120’ and can go through walls
+Got into a fight with Lonely Clive, he started the combat by casting a spell on Five
+We detected magic and found some magic items:
+Drow dragger with purple worm poison (1 time use) - Reserve
+Magic lantern (see invisible creatures) - Mine
+Ring of Wondrous Power (Griffin) - Jeff
+Ring of Wondrous Power (Goat) - Mine
+Ring of Wondrous Power (Steed) -Denis
+Chain Shirt Living Armor - Donald
+Two inert traps of mass polymorph
+Clive was drawn here because the the giant remains and collected artifacts and he was here since the first war and started dreaming of red orb and got obsessed with it
+There was so many time magic, maybe not. He could be dead, or not there, it was kind of confusing.
+Giant mouth with red pearl that is not evil and gives off happy music inside the mouth (not evil)
+Five used pitons to crawl up the skull and then fell on the pearl and the pearl fell into the lava
+Five put his hand in the lava and it melted off (from elbow down)
+Wright then pulls Five and the Orb out of the mouth
+Cue Indiana Jones run out the cave
+Sword and Hand sink into the lava
+Pearl is made from same stone as the throne of the ship
+The pearl makes Cordelia sick
+The pearl is a key to the book of many wonders of Golgotha, and it is information storage device
+Clive kept attracting people to the location with leaflets and also the sound of the orc
+The original people here were Clive and his co-explorers
+The dead bodies kept getting turned into animals and released
+The reason for the giant skull is one of the Giants fell there fighting Ezotl
+
+</Text>
+        </Document>
+        <Document ID="B806FF6D-2B37-485B-B927-AC58EBDC04AE">
+            <Title>Rick</Title>
+            <Text>
+Race
+
+Class
+
+Faction
+Us - Denis’ gang
+Location
+
+Age
+
+Goal
+
+Physical Description
+Missing most of his hair from a recent burn, couple tufts of hair here and there
+Personality
+
+Occupation
+
+Habits/Mannerisms
+
+Notes
+Stabs things real good
+His take is 1% of anything or minimum of 250 gold
+
+</Text>
+        </Document>
+        <Document ID="BE8FBF9F-06D2-487B-985A-876F17C5F096">
+            <Title>Active</Title>
+        </Document>
+        <Document ID="BEFAD770-0C9D-4694-BDB2-A570339321C0">
+            <Title>The Merchants</Title>
+            <Text>
+Leader
+
+Locations
+Naxalith
+Related Characters
+Weatherperson Family
+Goal
+
+Personality
+
+Feeling Towards Us
+
+Notes
+Takes items from pirates and then fences them
+They take items and sell them all over the globe
+Denis and Donald killed some of their faction members
+
+</Text>
+        </Document>
+        <Document ID="BF88CCB8-56E7-47E7-AE49-C7F3D7120245">
+            <Title>NPC Template</Title>
+            <Text>
+Race
+
+Class
+
+Faction
+
+Location
+
+Age
+
+Goal
+
+Physical Description
+
+Personality
+
+Occupation
+
+Habits/Mannerisms
+
+Notes
+
+</Text>
+        </Document>
+        <Document ID="C34358FE-305C-4870-8595-81E52FABE559">
+            <Title>Egg Quest</Title>
+            <Text>
+Giver
+Queen Mimic
+Rewards
+Mimic Ship
+Location
+Our Ship
+Factions
+Mimics
+Reason
+We will get a named ship
+Importance
+High
+Urgency
+Low
+Notes
+We got a 90 pound florescent egg, the egg of the queen of the mimics
+ If thrown it will spin and slowly fall towards your hand as it spins
+We need to keep an eye on the trap which holds Twisted Black
+Egg Care Tips:
+Requires Warmth
+Requires Humidity
+Egg will hatch in 3 months and 3 weeks
+Elderly people are feeding themselves to the egg.
+
+</Text>
+        </Document>
+        <Document ID="C3ACADE5-A80F-4180-BE66-1142184483F7">
+            <Title>Herbert Carpet</Title>
+            <Text>
+Race
+
+Class
+
+Faction
+
+Location
+Inland Perch
+Age
+
+Goal
+
+Physical Description
+
+Personality
+
+Occupation
+Magistrate
+Habits/Mannerisms
+
+Notes
+Gave Wright 8,000 to help move refugees out of the Inland perch and into AMI’s Love
+In exchange for the 8,000 he wanted to Orcs to give permission to build a town there
+Loaned us a translator for the orcs and guide for the leader of the Orcs
+
+</Text>
+        </Document>
+        <Document ID="C3D6688C-46EF-4CAC-A2F1-53CB1A8A7B13">
+            <Title>Mick</Title>
+            <Text>
+Race
+
+Class
+
+Faction
+Us - Denis’ gang
+Location
+
+Age
+
+Goal
+
+Physical Description
+Big long scar across his neck he covers with a bandanna and appears to be mute
+Personality
+
+Occupation
+
+Habits/Mannerisms
+
+Notes
+Shoots real good
+His take is 1% of anything or minimum of 250 gold
+</Text>
+        </Document>
+        <Document ID="C3DE6AAF-FDDC-4683-906E-B0DEE3145E20">
+            <Title>Lore</Title>
+            <Text>Currently at the poles of the planets, fragments of the world are starting to break apart at the crust and are slowly drifting into space.
+There are no longer any stars in the sky and no one knows why.
+Sometimes cities disappear (I would assume the cracks),
+The gods have left and no one knows why.
+There are Krakens in this world (giant lobsters)
+There used to be magic from the gods
+New types of magic are being adopted
+Gore tech is newer and runs of death and misery
+Aerotek
+Oh-Talk-To is the half Orc that conquered the frost giants realm and is the previous owner of Denis’ armor
+The moons are called Mother (reactive life) and Daughter (reflective light).
+In Bone Palace there is a 4’ tall obelisk that has consoles and power core slot that according to “fairy tales” has it that Naxalith is away from the rest of the world is that it is  artificial and is basically a spaceship that will propel Naxalith into the sky
+Slayer Vow - done by dwarves, forsake all material gain and do a crusade against begrudging dwarf kind and do it until death.
+Because of the Shattering the dwarves were driven psychotic and came to the surface world, they displaced the orcs
+Dwarves are very territorial
+Because of the dwarves the orcs are now in the mountains.
+Almost all dwarves only talk to dwarves and no other races, and are crazy barbarians
+Crusade of the Hostis Humani Generis allegedly follows angel that was trapped during the Shattering.
+The Angel leaves a group of clerics and paladins that have lost their powers
+The Crusade is to restore Golgotha and to redeem it.
+The Angel opposes the pirate lords.
+There are 12 names ships in all of Golgotha
+Stars are beings
+Smaller kin is anything smaller than a giant
+Five and his kind are “forever men” and worshiped by the Orcs of the old ways
+9 Pirate Lords wanted to keep this area uncivilized so no one would know about Twisted Black, all the more reasons to build a new city here
+Jails can make invisible creatures visible and trace all the places that they walked
+All thrones are black, except the one that Wright has which is red and translucent.
+Hulgar fell 172 years ago
+Three ships talked about kindly in Orc legends:
+Golden Orb
+The Barren Dawn
+The Black Stella
+The mimic ship is not one of those ships even though they worshiped it
+Sea giant came onto the land and created all of the lakes and valleys
+The land giant pushed the sea giant back
+The sea giant got mad and destroyed half of the land mass
+Final days against the dragons the land and sea giants worked together
+The sea giant helped the land giant so the dragons could not eat him
+The land giant sacrificed himself to kill the dragon</Text>
+        </Document>
+        <Document ID="C8B2D8D3-F257-4534-B52B-4618627DBD3D">
+            <Title>Jagged Tooth Bay</Title>
+            <Text>
+Parent Location
+Jagged Tooth Coast
+Location Type
+Coastal Region
+Faction
+Fire Mages
+Related Characters
+
+Unique Features
+Largest City is Hershel
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+Goes from planetary lake to roaming grasslands similar to Nebraska
+
+ </Text>
+        </Document>
+        <Document ID="CD67AC53-7332-4499-B4F0-4599FAC4E908">
+            <Title>Billy Bones</Title>
+            <Text>
+Race
+
+Class
+
+Faction
+Bones Family
+Location
+Bone Palace
+Age
+
+Goal
+
+Physical Description
+Older
+Personality
+
+Occupation
+Burgomaster of Naxalith
+Habits/Mannerisms
+
+Notes
+Regularly meets up with the top earners from Naxalith
+Meets up with and is friends with the pirate lords
+Said he has to meet with everyone
+</Text>
+        </Document>
+        <Document ID="D0A5C8AE-397A-4BAC-92A4-E4B3C278E5DB">
+            <Title>Vasquez</Title>
+            <Text>
+Race
+Human
+Class
+
+Faction
+Caravan Supplies &amp; Trading Company
+Location
+Pirate Ship
+Age
+
+Goal
+
+Physical Description
+
+Personality
+
+Occupation
+Quartermaster
+Habits/Mannerisms
+
+Notes
+
+
+</Text>
+        </Document>
+        <Document ID="D8E991F1-720E-4FF1-AB33-B240B0F4ADCC">
+            <Title>Roleplay Prompt Notes</Title>
+            <Text>State that we should all stick together, we make a great team
+Role play the creation of the bots and how she got to name them and she was never able to name anything before
+What happened to Denis’ town? Why is it no longer there?
+
+When there is sweet berry wine with AMI’s face, have Wright buy 100 bottles of it and build a wine room. Let AMI be super happy and every 20 minutes or so AMI comes in the room all excited and asks Wright if he wants more wine and he smiles and says of course and how good it is and how her wine is the best wine ever. And then when she walks away people can notice Wright try to hold back vomiting because he is so full and loose utterly miserable.
+
+Figure out something to RP with Jeff about how to avenge Hulgur’s death and how to help the Orcs and the Giants. How should we shape the world?
+Ask Five what he knows about Hulgur and why he shuts off when that name is mentioned.
+
+
+Later on have Wright talk to Denis and thank him for being so nice to AMI. Explain that he goes on these adventures to try and distract AMI from not being able to have kids, and also gives her a purpose and self-worth.  He doesn’t want her to feel helpless and hopes in-time she gets more confidence and realizes her potential.
+
+Have Wright approach Cordelia about being possessed and having her soul taken and he gets she is in a tough situation. Cordelia has always been nice to AMI and to return the favor (if she wants) he will see what he can do to get her out of the contract. She might not know this but Wright is an outstanding bureaucrat. </Text>
+        </Document>
+        <Document ID="D9A5DE5F-6FA8-44FD-A3B6-966D0C8AE986">
+            <Title>Marvelous Clive</Title>
+            <Text>
+Parent Location
+
+Location Type
+Pirate Ship
+Faction
+Caravan Supplies &amp; Trading Company
+Related Characters
+Edgar Friendly
+Unique Features
+
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+Has a forcefield
+Ran by gnome crew
+Hovers 10’ off the surface
+Has lots of cannons’
+
+
+*Utterly Destroyed*
+
+</Text>
+        </Document>
+        <Document ID="DA90D472-0C3E-4FE6-917B-DA625EC5ED94">
+            <Title>Bone Palace</Title>
+            <Text>
+Parent Location
+Naxalith
+Location Type
+Palace
+Faction
+Bone Family
+Related Characters
+Mr. Bones
+Unique Features
+
+Sights
+
+Sounds
+
+Smells
+
+Description
+
+Notes:
+When Cordelia and Five got close to the house they heard/felt a powerful humming sound.
+The house has a gate and well dressed attendant (John)
+Large marble columns
+Two 12 foot doors
+Four story mansion in the shape of a boomerang 
+Has a massive dining hall
+Bottom of the manner has 4’ tall obelisk that has consoles on all sides of it, with hand-prints and a slot which presumably fits the power core
+Fairy tale states that Naxalith is away from the rest of the world is that it is  artificial and is basically a spaceship that will propel Naxalith into the sky
+
+</Text>
+        </Document>
+        <Document ID="E5658248-BDD4-4DB8-879E-068C4D42E928">
+            <Title>Edgar Friendly</Title>
+            <Text>
+Race
+Human
+Class
+
+Faction
+Caravan Supplies &amp; Trading Company
+Location
+Pirate Ship
+Age
+
+Goal
+
+Physical Description
+Well dressed man
+Personality
+Appears to be smart and does not like Fyrestrum
+Occupation
+Pirate/Merchant Captain
+Habits/Mannerisms
+
+Notes
+Allowed us and the refugees we carried onto his pirate ship
+Wants us to work in order to stay on the boat
+Runs a flying pirate ship with a flag of a dancing skeleton on a black flag
+Also known as Mr. Letettle 
+Most of the vanguard / specialist crew served with Friendly during an Orc rebellion - a war that isn’t in the history books
+Has a necklace that glows blue when trying to be charmed, seems to prevent being charmed
+Mr. Friendly won’t attack Brawl ships/places. Why?
+He was interested in Lord Fyrestrum because he wanted the power core (which we have).
+Him and Client think the power core is part of a “fairy tale”
+In Bone Palace there is a 4’ tall obelisk that has consoles and power core slot that according to “fairy tales” has it that Naxalith is away from the rest of the world is that it is  artificial and is basically a spaceship that will propel Naxalith into the sky
+
+</Text>
+        </Document>
+        <Document ID="E5A0F78A-59E6-497D-9042-A4DE769FD0C3">
+            <Title>Travel to Brawl</Title>
+            <Text>
+Giver
+Denis Patron
+Rewards
+Unsure
+Location
+Brawl
+Factions
+
+Reason
+Denis family tree keeps getting wiped out
+Importance
+High
+Urgency
+Low
+Notes
+187 days travel to Brawl
+
+</Text>
+        </Document>
+        <Document ID="E8D938CC-BB58-4660-8333-61F27E802CC1">
+            <Title>Naxalith Power Core</Title>
+            <Text>
+Giver
+Bone Family
+Rewards
+Flying Ship?
+Location
+Bone Palace
+Factions
+Bone Family and Pirate Lords
+Reason
+They wants the power core to turn Naxalith into a flying ship
+Importance
+Important
+Urgency
+None
+Notes
+Insert the power core into the obelisk in the Bone Palace, see that sheet for more information.
+The pirate lords want the core for unknown reasons, but we were told by Lord Fyrestrum to not trust them with it. Also pirate lords are bad.
+
+</Text>
+        </Document>
+        <Document ID="EBA4313B-B152-4C1B-8E8A-BD324E2AD379">
+            <Title>Weatherperson Family</Title>
+            <Text>
+Race
+
+Class
+
+Faction
+The Merchants
+Location
+
+Age
+
+Goal
+
+Physical Description
+
+Personality
+
+Occupation
+Merchant family
+Habits/Mannerisms
+
+Notes
+Cherice is the daughter (mind stolen by Denis to help Donald)
+Madam is the mother (killed by Donald in blood lust)
+Sir is the father (killed by Donald in blood lust)
+Came to Inland Perch to secure a shipment
+Owns a ship called the Protistian
+
+
+
+</Text>
+        </Document>
+        <Document ID="EEB3C74E-9A5F-4774-8331-EDE141A2F806">
+            <Title>Lonely Clive</Title>
+            <Text>
+Race
+
+Class
+Time Wizard
+Faction
+
+Location
+Titians Last Grip
+Age
+
+Goal
+To stop people from getting the red orb
+Physical Description
+6’ and skinny, fading brown hair, covered in robes and trinkets
+Personality
+Crazy and hostile
+Occupation
+Time wizard
+Habits/Mannerisms
+
+Notes
+
+
+</Text>
+        </Document>
+        <Document ID="EF63F76B-4EDE-4099-B245-9C060F056960">
+            <Title>Large Shark Creature</Title>
+            <Text>
+Giver
+Monster Hunter
+Rewards
+
+Location
+Off coast of Naxalith
+Factions
+
+Reason
+
+Importance
+
+Urgency
+
+Notes
+Layer location is known by monster hunter
+He will supply the potions of water breathing
+And he will supply the equipment
+
+</Text>
+        </Document>
+        <Document ID="F05238CD-719F-40BE-83B3-380D227DD322">
+            <Title>Land Locations</Title>
+        </Document>
+        <Document ID="F332A018-6EF6-44AA-AE9E-D33E90FAB112">
+            <Title>Gunderson Farmstead</Title>
+            <Text>
+Parent Location
+Hershel (Outskirts)
+Location Type
+Farmstead
+Faction
+Fire Mages
+Related Characters
+Farmer Gunderson, Lord Fyrestrum
+Unique Features
+
+Sights
+
+Sounds
+
+Smells
+Sheep and fix
+Description
+
+Notes:
+Was able to stay here for free in exchange for chores. We had to keep the sheep alive and stop refugees from poaching the sheep. Has an arrangement with Lord Fyrestrum and his farm is protected by his guards.
+
+</Text>
+        </Document>
+        <Document ID="F76D39CE-40AD-4707-AF29-4FCC4B6995FE">
+            <Title>Orcs and Slave Raids</Title>
+            <Text>
+Giver
+Monster Hunter
+Rewards
+
+Location
+Inland Perch and up to the mountains
+Factions
+Orcs, Humans, Dwarves, Gnulls
+Reason
+
+Importance
+
+Urgency
+
+Notes
+We would be hired as ambassadors
+Get a peace to stop capturing farmers
+Orcs are driven to mountains because Dwarves have come out of the earth and taken over the planes
+Orcs are then taking over human settlements for slaves
+Black Tongue Tribe waited 120 years for Five to show up, they are followers of the old ways
+Wright got a red translucent stone throne and a young Orc Shaman to be the pilot
+Bunch of angry Orc warlords that follow the new ways
+Denis tried to convince the new orcs to let someone be his fall guy
+Denis is promised a private Orc crew of 10 people
+Orcs made a deal with Bones and The Merchants to not fight them
+Orcs are honest and do not like underhanded things
+Orcs will leave their dead for us
+Denis opens tavern in Black Tongue Tribe and in AMI’s Love
+Godrel got a book that was “destined” to be his. He waited 40 years to give it to Godrel. (Tome of the Fleshcrafter) This book is one of his ways to break Cyrus’ hold over him
+Denis tried to have the Shamans bump up his evil anti-orc armor and also investigate the flying book
+The Shamans all smoke vision plant, it acts a lot like weed and Denis was given a mother plant (gnarled bush with purple flowers on it)
+Wright now has an awesome 1/2 Orc kid
+Orcs are more “buff” magic
+Denis then learned three spells from them after he used his dark evil magic to impress them…
+Jackrow is where Orcs sell their slaves and they have magic (like wizards)
+They painted Godrel’s claws
+Fives real name is Five, Son of Hulgar and the holder of tomorrow
+Red thrones are rare and one of a kind, and black is mass produce
+Orcs were dressed like Five’s armor
+Orcs bowed to Five and they played super loud horns and released colored smoke
+The Orcs painting everyone to represent their beings of higher enlightenment:
+Five - Blue: giant of the seas
+Cordelia - Purple: the decider
+Godrel - Red: giant of the land
+Wright - White: giant the brought civilization and brought smaller kin together
+Amy - Pink: sister and unifier of the group
+Five is only one left of his type
+
+</Text>
+        </Document>
+        <Document ID="FA9295CA-200F-4F98-B023-CF2E5E43117C">
+            <Title>Retrieve Coredlia's Package</Title>
+            <Text>
+Giver
+Mysterious Writer
+Rewards
+A package, unknown
+Location
+Hershel
+Factions
+
+Reason
+Mysterious Writer wants him to
+Importance
+
+Urgency
+
+Notes
+Denis keeps getting letters that are written in Abyssal that tell him to pick up a package in Hershel.
+The letters then turn to ash.
+
+</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
