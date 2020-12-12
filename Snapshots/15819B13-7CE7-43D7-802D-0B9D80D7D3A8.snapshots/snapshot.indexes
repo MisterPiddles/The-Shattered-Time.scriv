@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SnapshotIndexes Version="1.0" BinderUUID="15819B13-7CE7-43D7-802D-0B9D80D7D3A8">
-    <Snapshot Date="2020-10-08 23:20:07 -0500">
+    <Snapshot Date="2020-10-08 21:20:07 -0800">
         <Title>Pre-Sync External File Version</Title>
         <Text>
 Race
@@ -28,7 +28,7 @@ Notes
 
 </Text>
     </Snapshot>
-    <Snapshot Date="2020-10-09 22:08:47 -0500">
+    <Snapshot Date="2020-10-09 20:08:47 -0800">
         <Title>Pre-Sync External File Version</Title>
         <Text>
 Race

@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="02A6CFEC-4F5D-4BB3-9AD9-B90DA5DB62CE">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="02EF9539-1BE5-45F2-BC05-D6A0A4BEF38E">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5">
             <Title>Characters</Title>
+        </Document>
+        <Document ID="06EF1C37-9427-46DA-BA33-F73D3DAEB792">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="081EB2B2-C3F8-425C-AA22-322DB2E3FA6C">
+            <Title>desktop</Title>
         </Document>
         <Document ID="09036E19-8980-4F20-8D20-5EECE14744D1">
             <Title>Factions</Title>
         </Document>
+        <Document ID="09989D9B-8974-4126-BE4E-6C6F08043AE6">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="09B67B63-3FE1-42A8-AD79-5C1302B5E153">
             <Title>Completed</Title>
+        </Document>
+        <Document ID="09C94559-040A-41D4-A581-02F93F66BBF2">
+            <Title>desktop</Title>
         </Document>
         <Document ID="09D5DA31-F40A-499C-88BD-AAED5929F305">
             <Title>Session Template</Title>
@@ -25,7 +43,20 @@ Encounters
 
 Notes
 
+
 </Text>
+        </Document>
+        <Document ID="0E0419B1-C0F7-45A4-85AF-0205C5F1EE97">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="0E6D5E4A-C38F-44DD-9C4F-3A111E168FAD">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="0F5C38AC-2B43-4393-961C-1D044DF5E51E">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="1195759F-A35E-4D3A-8F18-8444952CF225">
+            <Title>desktop</Title>
         </Document>
         <Document ID="1195E398-AB59-4B2F-9056-B525AAFC6432">
             <Title>Bradded Braggar</Title>
@@ -79,6 +110,7 @@ Lord Fyrestrum sent out an gnome expedition team a week ago on a five day hike t
 We need to keep this mission a secret for unknown reasons.
 He has given us a map and charted us a ship.
 The team size is four.
+
 </Text>
         </Document>
         <Document ID="11D7D42A-5747-436A-A352-0071F8DA167C">
@@ -116,6 +148,9 @@ Has taken a slayer vow
 
 </Text>
         </Document>
+        <Document ID="14014367-9540-4B3C-A15D-32406291793B">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="15819B13-7CE7-43D7-802D-0B9D80D7D3A8">
             <Title>Farmer Gunderson</Title>
             <Text>
@@ -143,6 +178,9 @@ Notes
 
 
 </Text>
+        </Document>
+        <Document ID="18402488-C84D-40DB-8B2B-96F18E129386">
+            <Title>desktop</Title>
         </Document>
         <Document ID="18C415CC-CBAB-4A20-A705-5C34F9BC7CDB">
             <Title>Find the Phoenix in Hershel</Title>
@@ -191,6 +229,15 @@ Notes:
 This is the session 0 where we got our initial quest. We were giving a table and we met 
 
 </Text>
+        </Document>
+        <Document ID="1A8A8CAB-B4D7-49AB-ABA8-F4D65204738A">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="1BEEA7FC-623C-43A4-96D8-747708ECA168">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="1C8AC67B-00E3-41A2-A8A1-66AB4336BFE8">
+            <Title>desktop</Title>
         </Document>
         <Document ID="1DA1E253-B983-4387-8EE1-D79DF3944046">
             <Title>Old Man St. McGee</Title>
@@ -337,6 +384,9 @@ He paid us to ferry him to Old Tide Strong Manner and to protect him
 
 </Text>
         </Document>
+        <Document ID="2255365D-482D-4007-976C-C1F59B7C0F4F">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="237C37FF-0990-41E4-BA4A-EB5C43BD5152">
             <Title>Naxalith</Title>
             <Text>
@@ -373,6 +423,18 @@ Monster Hunter
 Crusader Guy (Hostis Humani Generis)
 
 #</Text>
+        </Document>
+        <Document ID="23B4030D-8A54-441F-AFDC-733482668AD4">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="27A725FD-7E25-4EEA-8708-CC3E3E3204B2">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="27D0EC70-F58C-412C-9912-8CDECF62A55C">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="27F51FA5-832C-48D3-B00B-973F4FD3BF0A">
+            <Title>desktop</Title>
         </Document>
         <Document ID="2B249322-7AAC-4CC7-AB43-9B398C56D02A">
             <Title>Golgotha</Title>
@@ -428,6 +490,15 @@ This Five is a god
 Wright got a red translucent stone throne and a young Orc Shaman to be the pilot
 
 </Text>
+        </Document>
+        <Document ID="30461187-285C-41C3-8634-9358B7E1BF29">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="32587096-32B8-4400-8F6C-4A81C9CF4704">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="32A05C66-9A2A-4631-9A0A-00B3EC8EF336">
+            <Title>desktop</Title>
         </Document>
         <Document ID="3499F9C4-D690-4ABC-B99F-308F6F1E2DB0">
             <Title>Lord Fyrestrum  </Title>
@@ -485,8 +556,20 @@ You the people have the power! Let us use that power to make a new world!
 
 </Text>
         </Document>
+        <Document ID="34F1FB6C-6495-4F19-BD54-1745158135CB">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="3693E0F3-A199-478B-BA75-291FCAC44E1E">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="38D29ECE-F7F7-4E9D-85FD-8276D8A03224">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="3A4A5657-4700-48DE-89BD-F23DCF64CB66">
             <Title>Ships</Title>
+        </Document>
+        <Document ID="3CC6047A-4D0C-4184-85A9-E2E405A1D44F">
+            <Title>desktop</Title>
         </Document>
         <Document ID="3FC3CDDE-4CF2-41C6-A7EA-439B3B26B3B2">
             <Title>Captain Clint</Title>
@@ -515,6 +598,9 @@ Notes
 
 
 </Text>
+        </Document>
+        <Document ID="40D1F270-82DC-4A15-A926-03B4FC5C4D3B">
+            <Title>desktop</Title>
         </Document>
         <Document ID="4262E337-EF32-46A8-8952-46E3EE51329A">
             <Title>Old Tide Strong Manner</Title>
@@ -623,7 +709,16 @@ We found a laser pistol and some ammo in this room
 The last room had some lockers and and rations and appeared to be a kitchen
 We found an ooze and and some schematics that we can sell
 
- </Text>
+#</Text>
+        </Document>
+        <Document ID="44D59322-5B8F-48C0-A0B9-D87534B6DABA">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="47F7A171-CB84-46B3-A7D7-60D88293D0FE">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="4BA67A1D-FDB1-406E-B53D-7B1F4798F694">
+            <Title>desktop</Title>
         </Document>
         <Document ID="4D4B6834-449D-4330-B5A0-A10FDAB71D4D">
             <Title>Hessian</Title>
@@ -661,6 +756,9 @@ At docks it is 20 gold per day
 
 </Text>
         </Document>
+        <Document ID="503125FE-1A28-4CF3-95DF-3C9FE05D2E7B">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="5080EF59-EE51-4E0F-BFEC-2F680EC0F159">
             <Title>Twist Black</Title>
             <Text>
@@ -682,6 +780,12 @@ Notes
 
 
 </Text>
+        </Document>
+        <Document ID="5272D64D-D69D-41EB-8B9D-14C1F55B3F34">
+            <Title>Recovered Files (12/12/2020, 10:17 AM)</Title>
+        </Document>
+        <Document ID="537171B1-8419-4F0F-8A49-9B5FAACB34F7">
+            <Title>desktop</Title>
         </Document>
         <Document ID="53837B95-B8C4-4AD2-A302-4BA8C9E98673">
             <Title>North Eastern Coast</Title>
@@ -707,7 +811,13 @@ Description
 Notes:
 
 
- </Text>
+#</Text>
+        </Document>
+        <Document ID="5406CB48-1687-4959-AC4A-BEC195C94B36">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="5680240A-D9BF-4A71-9058-9BA8116AA25F">
+            <Title>desktop</Title>
         </Document>
         <Document ID="57DDB283-03E1-43E2-B403-2F1F4406C494">
             <Title>Barren Dawn (Our Ship)</Title>
@@ -767,6 +877,9 @@ With the throne and pilot the Main Hull gun / idle hover and slow fly will be gr
 
 </Text>
         </Document>
+        <Document ID="59B53948-886C-4F29-B931-D0657E8E79BF">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="5AA0F0ED-A05B-463C-B7C1-55DBA84C1169">
             <Title>Atlantians</Title>
             <Text>
@@ -788,8 +901,20 @@ Legend has it that they took a regular lobster and over generations kept crackin
 
 </Text>
         </Document>
+        <Document ID="5AB30848-BF52-405E-8B17-5CB9C06AB513">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="5B8CF987-E78F-4016-B1B3-EC1B3AD57FDE">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="5BF9229C-FAEE-4100-A956-66244995E678">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="5C03DE09-C285-48ED-827F-78E62B7D0F72">
             <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="5C5F49C4-0536-47C0-A232-65E6FDB050FD">
+            <Title>desktop</Title>
         </Document>
         <Document ID="5CFEB757-2A21-4E2C-AFCE-67C800C04A8E">
             <Title>Session Notes</Title>
@@ -938,6 +1063,9 @@ Children thieves guild
 
 </Text>
         </Document>
+        <Document ID="62F14BFC-1F9E-4969-8548-418C0D9F54A0">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="64259C88-0DEE-48FE-B150-310145EB5928">
             <Title>Patron</Title>
             <Text>
@@ -1036,6 +1164,9 @@ But in the era of the Shards, is that lie even worth continuing?
 Should we really mourn the loss of cannibal gods?
 </Text>
         </Document>
+        <Document ID="669291DA-4244-414A-8DD2-8146E717E92D">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="66983230-7311-4FCB-80D5-A06A713A20D9">
             <Title>Fire Mages</Title>
             <Text>
@@ -1056,6 +1187,9 @@ Wants us to do missions where we both can profit and help his other followers.
 Their crest is symbol of a campfire with four distinct arching flames on copper coins that size of a human fist
 
 </Text>
+        </Document>
+        <Document ID="6708A4CA-EA94-47C9-892D-1D6B6200324C">
+            <Title>desktop</Title>
         </Document>
         <Document ID="6830B6AC-686B-4370-A979-2FD1D7288BDA">
             <Title>Places</Title>
@@ -1081,6 +1215,12 @@ Build Jeff’s water walking shoes
 Remember to give Wright ways to break patron contracts
 Rename Wright as Fleet Master Wright Attorney at Large</Text>
         </Document>
+        <Document ID="68956E1F-1DE9-44F2-B737-ACDA223B1451">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="68D65884-B75E-4FEB-BF93-8D92E9414270">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="693F2B16-D2CB-4D2D-AD7F-59DD7299A739">
             <Title>Red Paw</Title>
             <Text>
@@ -1105,6 +1245,7 @@ Occupation
 Habits/Mannerisms
 
 Notes
+
 
 </Text>
         </Document>
@@ -1133,6 +1274,12 @@ Denis received a chest with four sacks, each sack containing heads of the sailor
 When Denis has possession of a map a small skull and crossbones will form over Naxalith, if he holds it for more than 24 hours
 Denis now has a book containing his family tree
 </Text>
+        </Document>
+        <Document ID="6C03F99C-733F-4A36-97E2-AF2CFEC77DA5">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="6DB29E4B-410B-4B73-9328-C81170C713F1">
+            <Title>desktop</Title>
         </Document>
         <Document ID="6EED0885-0E44-4126-9D22-BA70C714D68B">
             <Title>Last Titan's Grip</Title>
@@ -1163,6 +1310,9 @@ Has a giant skull
 Has a person who went insane and tried to protect it
 
 </Text>
+        </Document>
+        <Document ID="719B2F54-1232-4D56-AA47-8F27618195EE">
+            <Title>desktop</Title>
         </Document>
         <Document ID="723E3117-60F7-4A94-829B-C5AF2317FC8C">
             <Title>Caravan Supplies &amp; Trading Company</Title>
@@ -1396,6 +1546,9 @@ Denis owns a bar in AMI’s Love (paid 2,000 gold)
 
 </Text>
         </Document>
+        <Document ID="7E7C8348-3DBE-418D-8A45-E1C6840FE0F0">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="7EC31F9A-DE99-4F4B-94BE-9FB6BEEAE5F8">
             <Title>Quest Template</Title>
             <Text>
@@ -1415,7 +1568,11 @@ Urgency
 
 Notes
 
+
 </Text>
+        </Document>
+        <Document ID="7F294F43-0E30-4575-9905-BEF4392384B0">
+            <Title>desktop</Title>
         </Document>
         <Document ID="8426E223-A0A3-4535-AE01-2B7AFBA9E309">
             <Title>Dead</Title>
@@ -1473,6 +1630,15 @@ Notes:
 
 
 </Text>
+        </Document>
+        <Document ID="88070CBF-A27A-4BB4-AB46-813654E2AA32">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="8C47F84F-A9B1-4C6B-9984-BAF4C63C2E40">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="8CE28CB6-0159-4DC0-9316-50E5E4758938">
+            <Title>desktop</Title>
         </Document>
         <Document ID="8E59872F-AAD3-45EB-A979-4FEB6D328C1F">
             <Title>Sand Kings</Title>
@@ -1568,15 +1734,18 @@ Gave us the Barren Dawn (our ship)
         </Document>
         <Document ID="917BA082-FE60-4E02-A500-5D3EEF6C7FE2">
             <Title>Questions</Title>
-            <Text>What is the Patron’s name?
-How did the steal the Barren Dawn? It is imprinted on my and AMI and AMI has a necklace which is the override key and master key?
-Is there a way I can sharpen / alter Five’s axe?
-There was something about a pilot for the ship but it didn’t make sense
-Legal arguments about how the Cordelia did not accept her mother
-Legal arguments about how those contracts means the soul go towards his count and would make Cordelia a lemure, and since we are in a pocket dimension that is not longer possible making her contract void
+            <Text>What is the Patron’s name? In Game
+How did the steal the Barren Dawn? It is imprinted on my and AMI and AMI has a necklace which is the override key and master key? In Game 
+Is there a way I can sharpen / alter Five’s axe? Yes - You can build a mechanical addition. 
+There was something about a pilot for the ship but it didn’t make sense - The Spider Pilot : the egg sac to be returned to mountain deal. 
+Legal arguments about how the Cordelia did not accept her mother 
+Legal arguments about how those contracts means the soul go towards his count and would make Cordelia a lemure, and since we are in a pocket dimension that is not longer possible making her contract void In Game 
 Legal arguments how the deed was assigned to the devil, but since the world shift and he is the only devil left his title, religion, and the structure he got his soul collection based around has changed (think like different company owns it and he “quit” that job, the old company owns it)
-Legal argument about how devil might have signed a non-compete clause with his old boss.
-I would like on opportunity to give Friendly a “gift”. So if you could work out a way he would accept something from Wright or Wright knows someone he trusts so he can abuse that trust, let me know.</Text>
+Legal argument about how devil might have signed a non-compete clause with his old boss. Good one
+I would like on opportunity to give Friendly a “gift”. So if you could work out a way he would accept something from Wright or Wright knows someone he trusts so he can abuse that trust, let me know. New plot hook</Text>
+        </Document>
+        <Document ID="94C1608D-9AB7-4A3B-A6FF-40370E813788">
+            <Title>desktop</Title>
         </Document>
         <Document ID="964747CF-523F-49AF-AEAB-5DEEE2303C46">
             <Title>Five to Avenge Hulgar</Title>
@@ -1601,6 +1770,12 @@ Kill the Twisted Black (see info dump)
 
 </Text>
         </Document>
+        <Document ID="97B61392-C5CB-42DE-86E7-EB92CC7EBB7F">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="98FDD13D-D7DD-4B94-AB36-6267695270FF">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="9A335BB3-D508-4788-9522-0C7D2A45955B">
             <Title>Faction Template</Title>
             <Text>
@@ -1617,6 +1792,7 @@ Personality
 Feeling Towards Us
 
 Notes
+
 
 </Text>
         </Document>
@@ -1640,6 +1816,9 @@ Wright got a red translucent stone throne and a young Orc Shaman to be the pilot
 Allowed us to build AMI’s Love
 
 </Text>
+        </Document>
+        <Document ID="9DB709A5-0084-4E91-99A9-7FDE181595DA">
+            <Title>desktop</Title>
         </Document>
         <Document ID="9FBFF08C-B905-4416-9389-CC7CD0355084">
             <Title>The Ark 123456</Title>
@@ -1668,6 +1847,9 @@ Has 80 HP
 
 </Text>
         </Document>
+        <Document ID="A092E426-80DC-4611-9A4F-809DFC09524D">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="A0B6D1F3-2D18-44B6-81E0-3BB01F379E80">
             <Title>Dwarven Slayer Vow</Title>
             <Text>
@@ -1693,6 +1875,15 @@ I think we could get the dwarves to blame the crusade. Two mega forces hate each
 
 </Text>
         </Document>
+        <Document ID="A14EC792-56FC-4D72-BD8D-F0611392A252">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="A397A3F5-B63F-484A-B2E9-BA5ED27AA337">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="A415D09C-B7EC-419A-A662-62D32E385968">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="A49D6967-D058-4A68-A2CC-7E7588824F0E">
             <Title>Join a Crusade</Title>
             <Text>
@@ -1714,6 +1905,33 @@ Notes
 
 
 </Text>
+        </Document>
+        <Document ID="A536082C-468A-4712-98F0-77E3F1E53E4C">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="A67C3BF0-35E7-44DE-BA6C-BB2F0ED9D239">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="A8868B0C-19CB-44D1-AA81-7DD0EC769933">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="AADD09FA-D440-41D8-9FE0-367DA3B6A8EA">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="AC4B7A64-60E3-4076-A737-76F42B62DD05">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="AD3571C0-7FC9-4211-8525-6D96317A6357">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="AD8DFE6F-1762-4674-A81F-7093A61CFE1B">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="ADB1362F-0B45-4C82-9FBF-8B5402433DC7">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="ADE6787A-1945-40FB-859A-EE7B336EA1D7">
+            <Title>desktop</Title>
         </Document>
         <Document ID="AE4D73B1-CA0B-4A44-9E77-C5412E96E2D8">
             <Title>Brawl</Title>
@@ -1741,6 +1959,15 @@ Mr. Friendly won’t attack this place, or any ships from here.
 186 days away from Naxalith by sub
 
 </Text>
+        </Document>
+        <Document ID="AEA2DF8A-1AEE-426D-8743-8848315046D3">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="AFDF5B64-BD35-4448-861D-26F59DA50CBF">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="B028630F-B0EF-48FB-9C61-E70193FF8403">
+            <Title>desktop</Title>
         </Document>
         <Document ID="B15FDF4F-D1A6-41F3-9030-0BEAAE01B50A">
             <Title>Titan's Last Grip</Title>
@@ -1795,6 +2022,12 @@ The dead bodies kept getting turned into animals and released
 The reason for the giant skull is one of the Giants fell there fighting Ezotl
 
 </Text>
+        </Document>
+        <Document ID="B61AAACE-F76D-475B-BD19-958B947E971A">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="B6E4A35E-D3B5-447C-8151-1B22E5F0E105">
+            <Title>desktop</Title>
         </Document>
         <Document ID="B806FF6D-2B37-485B-B927-AC58EBDC04AE">
             <Title>Rick</Title>
@@ -1875,7 +2108,11 @@ Habits/Mannerisms
 
 Notes
 
+
 </Text>
+        </Document>
+        <Document ID="C10E31CD-02B0-4D9A-AFAA-47FC5FE9DA51">
+            <Title>desktop</Title>
         </Document>
         <Document ID="C34358FE-305C-4870-8595-81E52FABE559">
             <Title>Egg Quest</Title>
@@ -1936,6 +2173,9 @@ Loaned us a translator for the orcs and guide for the leader of the Orcs
 
 </Text>
         </Document>
+        <Document ID="C3B2998D-8622-4C7D-8D5B-AC716B3CE4E8">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="C3D6688C-46EF-4CAC-A2F1-53CB1A8A7B13">
             <Title>Mick</Title>
             <Text>
@@ -1962,6 +2202,7 @@ Habits/Mannerisms
 Notes
 Shoots real good
 His take is 1% of anything or minimum of 250 gold
+
 </Text>
         </Document>
         <Document ID="C3DE6AAF-FDDC-4683-906E-B0DEE3145E20">
@@ -2031,7 +2272,7 @@ Description
 Notes:
 Goes from planetary lake to roaming grasslands similar to Nebraska
 
- </Text>
+#</Text>
         </Document>
         <Document ID="CD67AC53-7332-4499-B4F0-4599FAC4E908">
             <Title>Billy Bones</Title>
@@ -2060,7 +2301,11 @@ Notes
 Regularly meets up with the top earners from Naxalith
 Meets up with and is friends with the pirate lords
 Said he has to meet with everyone
+
 </Text>
+        </Document>
+        <Document ID="CF718F28-D35D-4F06-AA53-DEC43FCB3640">
+            <Title>desktop</Title>
         </Document>
         <Document ID="D0A5C8AE-397A-4BAC-92A4-E4B3C278E5DB">
             <Title>Vasquez</Title>
@@ -2089,6 +2334,9 @@ Notes
 
 
 </Text>
+        </Document>
+        <Document ID="D529AF8C-DF21-4E49-BD2A-35DC63182123">
+            <Title>desktop</Title>
         </Document>
         <Document ID="D8E991F1-720E-4FF1-AB33-B240B0F4ADCC">
             <Title>Roleplay Prompt Notes</Title>
@@ -2137,6 +2385,9 @@ Has lots of cannons’
 *Utterly Destroyed*
 
 </Text>
+        </Document>
+        <Document ID="DA4741E1-47E7-491B-A84A-CE5ADF902FB2">
+            <Title>desktop</Title>
         </Document>
         <Document ID="DA90D472-0C3E-4FE6-917B-DA625EC5ED94">
             <Title>Bone Palace</Title>
@@ -2253,6 +2504,9 @@ The pirate lords want the core for unknown reasons, but we were told by Lord Fyr
 
 </Text>
         </Document>
+        <Document ID="E9B9E0DB-E779-4425-B209-EC686E683C63">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="EBA4313B-B152-4C1B-8E8A-BD324E2AD379">
             <Title>Weatherperson Family</Title>
             <Text>
@@ -2286,6 +2540,9 @@ Owns a ship called the Protistian
 
 
 </Text>
+        </Document>
+        <Document ID="ECBDC7C5-FCFD-42C1-8740-715093038CC0">
+            <Title>desktop</Title>
         </Document>
         <Document ID="EEB3C74E-9A5F-4774-8331-EDE141A2F806">
             <Title>Lonely Clive</Title>
@@ -2368,6 +2625,12 @@ Was able to stay here for free in exchange for chores. We had to keep the sheep 
 
 </Text>
         </Document>
+        <Document ID="F4D9293A-8AC5-4161-80EB-8DBEB5C2BA9D">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="F735F380-8F93-414F-A18E-8C4177CA2CEC">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="F76D39CE-40AD-4707-AF29-4FCC4B6995FE">
             <Title>Orcs and Slave Raids</Title>
             <Text>
@@ -2421,6 +2684,9 @@ Five is only one left of his type
 
 </Text>
         </Document>
+        <Document ID="F95D9224-8DB6-41DB-A43A-C499616378BB">
+            <Title>desktop</Title>
+        </Document>
         <Document ID="FA9295CA-200F-4F98-B023-CF2E5E43117C">
             <Title>Retrieve Coredlia's Package</Title>
             <Text>
@@ -2443,6 +2709,18 @@ Denis keeps getting letters that are written in Abyssal that tell him to pick up
 The letters then turn to ash.
 
 </Text>
+        </Document>
+        <Document ID="FAE251B8-8424-4932-99C1-9F44FFC79B6A">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="FCD1D852-7D6B-4EEB-A848-18FD79096349">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="FCED9E02-F70E-44F4-9135-01494FA76420">
+            <Title>desktop</Title>
+        </Document>
+        <Document ID="FDC042C1-237B-4744-BB64-EB54A36AB248">
+            <Title>desktop</Title>
         </Document>
     </Documents>
 </SearchIndexes>
